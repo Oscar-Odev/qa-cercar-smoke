@@ -2,7 +2,7 @@
 
 Smoke and API regression suite for **[CerCar](https://cercar.odev.es)** — personal vehicle passport app in production on my homelab.
 
-Built with **Playwright + TypeScript** for a QA Automation portfolio (Mercadona IT candidacy and general hiring).
+Built with **Playwright + TypeScript** as part of my QA automation portfolio ([portfolio.odev.es/testing](https://portfolio.odev.es/testing)).
 
 ## Scope
 
